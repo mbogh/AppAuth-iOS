@@ -1,3 +1,6 @@
 Docs/
 xcuserdata/
 Carthage/
+.DS_Store
+/.swiftpm
+/.build
